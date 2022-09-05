@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diógenes</h1>
 <h3 align="center">A Brazilian developer studying backend</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
