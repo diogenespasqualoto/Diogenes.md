@@ -9,8 +9,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML,CSS,Javascript,Dart'];
-  bibliotecas  = ['React,react native'];
-  frameworks = ['Bootstrap, Flutter'];
+  linguagens  = ['HTML,CSS,Javascript'];
+  bibliotecas  = ['Vue.js,Vue native'];
+  frameworks = ['Bootstrap'];
 }
 ```
